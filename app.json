@@ -24,47 +24,47 @@
         "BOT_TOKEN2": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": "",
-            "required": false
+            "required": true
         },
         "BOT_TOKEN3": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": "",
-            "required": false
+            "required": true
         },
         "BOT_TOKEN4": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": "",
-            "required": false       
+            "required": true       
         },
         "BOT_TOKEN5": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": "",
-            "required": false         
+            "required": true         
         },
         "BOT_TOKEN6": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": "",
-            "required": false     
+            "required": true     
         },
         "BOT_TOKEN7": {
             "description": "Use @BotFather. To Get BOT_TOKEN",
             "value": "",
-            "required": false       
+            "required": true       
         },
         "BOT_TOKEN8": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": "",
-            "required": false         
+            "required": true         
         },
         "BOT_TOKEN9": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": "",
-            "required": false         
+            "required": true         
         },
         "BOT_TOKEN10": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
             "value": "",
-            "required": false        
+            "required": true        
         },
         "BOT_TOKEN11": {
             "description": "Use @BotFather. To Get BOT_TOKEN.",
